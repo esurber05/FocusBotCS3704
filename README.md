@@ -1,10 +1,10 @@
 # FocusBotCS3704
 
 # Team Members
-Ethan Surber : esurber05
-Menase Yirdaw : menasey
-Ian Yoon : iany25
-Yassewr Algburi : yasseralgbur
+Ethan Surber : esurber05  
+Menase Yirdaw : menasey  
+Ian Yoon : iany25  
+Yassewr Algburi : yasseralgbur  
 
 # Description
 
